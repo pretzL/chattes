@@ -12,8 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/pretzL/chattes.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "social media",
+    "css framework",
+    "sass",
+    "bootstrap",
+    "noroff"
+  ],
+  "author": "Eric Pretzinger",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pretzL/chattes/issues"
