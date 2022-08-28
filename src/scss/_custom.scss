@@ -5,10 +5,29 @@ h1 {
 }
 
 .page-logo,
-.active {
+.active,
+.card-social-icons {
   color: $logo-green;
 }
 
 main {
   min-height: 80vh;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+.card-profile-img {
+  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-user-info {
+  gap: 1rem;
 }
