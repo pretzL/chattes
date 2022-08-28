@@ -1,7 +1,14 @@
 h1 {
   font-weight: normal;
+  font-family: "Pacifico", sans-serif;
+  font-size: 2rem;
 }
 
-.page-logo {
+.page-logo,
+.active {
   color: $logo-green;
+}
+
+main {
+  min-height: 80vh;
 }
