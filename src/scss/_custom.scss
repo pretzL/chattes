@@ -10,6 +10,15 @@ h1 {
   color: $logo-green;
 }
 
+.page-logo:hover {
+  color: $logo-green;
+}
+
+.active:hover,
+.card-social-icons svg:hover {
+  color: black;
+}
+
 main {
   min-height: 80vh;
 }

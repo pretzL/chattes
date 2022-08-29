@@ -10934,6 +10934,15 @@ h1, .h1 {
   color: #00ff77;
 }
 
+.page-logo:hover {
+  color: #00ff77;
+}
+
+.active:hover,
+.card-social-icons svg:hover {
+  color: black;
+}
+
 main {
   min-height: 80vh;
 }
