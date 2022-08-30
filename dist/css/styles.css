@@ -10944,6 +10944,10 @@ textarea.form-control-lg {
   border-color: transparent;
 }
 
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
 h1, .h1 {
   font-weight: normal;
   font-family: "Pacifico", sans-serif;
