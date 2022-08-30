@@ -10922,25 +10922,32 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-h1, .h1 {
-  font-weight: normal;
-  font-family: "Pacifico", sans-serif;
-  font-size: 2rem;
-}
-
-.page-logo,
-.active,
-.card-social-icons {
+.hover-green:hover {
   color: #00ff77;
+  cursor: pointer;
 }
 
-.page-logo:hover {
+.color-green {
   color: #00ff77;
 }
 
 .active:hover,
 .card-social-icons svg:hover {
   color: black;
+}
+
+.bg-color-green {
+  background-color: #00ff77;
+}
+
+.btn {
+  border-color: transparent;
+}
+
+h1, .h1 {
+  font-weight: normal;
+  font-family: "Pacifico", sans-serif;
+  font-size: 2rem;
 }
 
 main {
@@ -10963,4 +10970,33 @@ main {
 
 .card-user-info {
   gap: 1rem;
+}
+
+.post-message-form {
+  width: 100%;
+}
+
+.text-anchor {
+  text-decoration: none;
+  color: black;
+}
+
+.text-anchor:hover {
+  text-decoration: underline;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.gap-3 {
+  gap: 3rem;
+}
+
+.gap-4 {
+  gap: 4rem;
 }/*# sourceMappingURL=styles.css.map */
