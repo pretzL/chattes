@@ -11212,6 +11212,12 @@ main {
   height: 46px;
 }
 
+.user-profile-icon {
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+}
+
 .card-title {
   margin-bottom: 0;
 }
