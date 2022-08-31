@@ -10922,85 +10922,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.hover-green:hover {
-  color: #00ff77;
-  cursor: pointer;
-}
-
-.color-green {
-  color: #00ff77;
-}
-
-.active:hover,
-.card-social-icons svg:hover {
-  color: black;
-}
-
-.bg-color-green {
-  background-color: #00ff77;
-}
-
-.btn {
-  border-color: transparent;
-}
-
-.hover-underline:hover {
-  text-decoration: underline;
-}
-
-h1, .h1 {
-  font-weight: normal;
-  font-family: "Pacifico", sans-serif;
-  font-size: 2rem;
-}
-
-main {
-  min-height: 80vh;
-}
-
-#page-content {
-  flex: 1 0 auto;
-}
-
-.card-profile-img {
-  border-radius: 50%;
-  width: 46px;
-  height: 46px;
-}
-
-.card-title {
-  margin-bottom: 0;
-}
-
-.card-user-info {
-  gap: 1rem;
-}
-
-.post-message-form {
-  width: 100%;
-}
-
-.text-anchor {
-  text-decoration: none;
-  color: black;
-}
-
-.gap-1 {
-  gap: 1rem;
-}
-
-.gap-2 {
-  gap: 2rem;
-}
-
-.gap-3 {
-  gap: 3rem;
-}
-
-.gap-4 {
-  gap: 4rem;
-}
-
 .login-a {
   color: #6c757d;
   transition: 0.3s all ease;
@@ -11209,4 +11130,83 @@ h2, .h2 {
 .control--checkbox input:disabled:checked ~ .control__indicator {
   background-color: #7e0cf5;
   opacity: 0.2;
+}
+
+.hover-green:hover {
+  color: #00ff77;
+  cursor: pointer;
+}
+
+.color-green {
+  color: #00ff77;
+}
+
+.active:hover,
+.card-social-icons svg:hover {
+  color: black;
+}
+
+.bg-color-green {
+  background-color: #00ff77;
+}
+
+.btn {
+  border-color: transparent;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
+h1, .h1 {
+  font-weight: normal;
+  font-family: "Pacifico", sans-serif;
+  font-size: 2rem;
+}
+
+main {
+  min-height: 80vh;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+.card-profile-img {
+  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-user-info {
+  gap: 1rem;
+}
+
+.post-message-form {
+  width: 100%;
+}
+
+.text-anchor {
+  text-decoration: none;
+  color: black;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.gap-3 {
+  gap: 3rem;
+}
+
+.gap-4 {
+  gap: 4rem;
 }/*# sourceMappingURL=styles.css.map */
