@@ -6,6 +6,7 @@
 }
 
 .upper img {
+  height: 250px;
   width: 100%;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -24,8 +25,8 @@
 .profile {
   position: absolute;
   top: -50px;
-  height: 150px;
-  width: 150px;
+  height: 9rem;
+  width: 9rem;
   border: 3px solid #fff;
   border-radius: 50%;
   margin-left: 1rem;
