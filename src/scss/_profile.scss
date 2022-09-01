@@ -1,0 +1,33 @@
+.profile-card {
+  border: none;
+  border-radius: 15px;
+  background-color: #fff;
+  position: relative;
+}
+
+.upper img {
+  height: 250px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.user {
+  position: relative;
+}
+
+.profile img {
+  height: 100%;
+  width: 100%;
+  margin-top: 2px;
+}
+
+.profile {
+  position: absolute;
+  top: -50px;
+  height: 9rem;
+  width: 9rem;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  margin-left: 1rem;
+}
