@@ -1,12 +1,12 @@
 // COLORS
 
 .hover-green:hover {
-  color: $logo-green;
+  color: $primary;
   cursor: pointer;
 }
 
 .color-green {
-  color: $logo-green;
+  color: $primary;
 }
 
 .active:hover,
@@ -15,7 +15,7 @@
 }
 
 .bg-color-green {
-  background-color: $logo-green;
+  background-color: $primary;
 }
 
 .btn {
