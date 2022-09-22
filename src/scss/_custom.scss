@@ -1,21 +1,13 @@
 // COLORS
 
 .hover-green:hover {
-  color: $logo-green;
+  color: $primary;
   cursor: pointer;
-}
-
-.color-green {
-  color: $logo-green;
 }
 
 .active:hover,
 .card-social-icons svg:hover {
   color: black;
-}
-
-.bg-color-green {
-  background-color: $logo-green;
 }
 
 .btn {
