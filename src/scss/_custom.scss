@@ -5,17 +5,9 @@
   cursor: pointer;
 }
 
-.color-green {
-  color: $primary;
-}
-
 .active:hover,
 .card-social-icons svg:hover {
   color: black;
-}
-
-.bg-color-green {
-  background-color: $primary;
 }
 
 .btn {
